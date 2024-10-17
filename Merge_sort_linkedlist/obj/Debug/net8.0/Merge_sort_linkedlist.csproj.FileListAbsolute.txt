@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Merge_sort_linkedlist\bin\Debug\net8.0\Merge_sort_linkedlist.exe
+C:\Users\empur\source\repos\Merge_sort_linkedlist\bin\Debug\net8.0\Merge_sort_linkedlist.deps.json
+C:\Users\empur\source\repos\Merge_sort_linkedlist\bin\Debug\net8.0\Merge_sort_linkedlist.runtimeconfig.json
+C:\Users\empur\source\repos\Merge_sort_linkedlist\bin\Debug\net8.0\Merge_sort_linkedlist.dll
+C:\Users\empur\source\repos\Merge_sort_linkedlist\bin\Debug\net8.0\Merge_sort_linkedlist.pdb
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.AssemblyInfo.cs
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.dll
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\refint\Merge_sort_linkedlist.dll
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.pdb
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\Merge_sort_linkedlist.genruntimeconfig.cache
+C:\Users\empur\source\repos\Merge_sort_linkedlist\obj\Debug\net8.0\ref\Merge_sort_linkedlist.dll

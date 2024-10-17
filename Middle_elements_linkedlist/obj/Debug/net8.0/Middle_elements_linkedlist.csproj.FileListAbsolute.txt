@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Middle_elements_linkedlist\bin\Debug\net8.0\Middle_elements_linkedlist.exe
+C:\Users\empur\source\repos\Middle_elements_linkedlist\bin\Debug\net8.0\Middle_elements_linkedlist.deps.json
+C:\Users\empur\source\repos\Middle_elements_linkedlist\bin\Debug\net8.0\Middle_elements_linkedlist.runtimeconfig.json
+C:\Users\empur\source\repos\Middle_elements_linkedlist\bin\Debug\net8.0\Middle_elements_linkedlist.dll
+C:\Users\empur\source\repos\Middle_elements_linkedlist\bin\Debug\net8.0\Middle_elements_linkedlist.pdb
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.AssemblyInfo.cs
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.dll
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\refint\Middle_elements_linkedlist.dll
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.pdb
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\Middle_elements_linkedlist.genruntimeconfig.cache
+C:\Users\empur\source\repos\Middle_elements_linkedlist\obj\Debug\net8.0\ref\Middle_elements_linkedlist.dll

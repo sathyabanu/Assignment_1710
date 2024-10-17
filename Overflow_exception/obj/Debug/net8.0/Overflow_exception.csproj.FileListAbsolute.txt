@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Overflow_exception\bin\Debug\net8.0\Overflow_exception.exe
+C:\Users\empur\source\repos\Overflow_exception\bin\Debug\net8.0\Overflow_exception.deps.json
+C:\Users\empur\source\repos\Overflow_exception\bin\Debug\net8.0\Overflow_exception.runtimeconfig.json
+C:\Users\empur\source\repos\Overflow_exception\bin\Debug\net8.0\Overflow_exception.dll
+C:\Users\empur\source\repos\Overflow_exception\bin\Debug\net8.0\Overflow_exception.pdb
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.AssemblyInfo.cs
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.dll
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\refint\Overflow_exception.dll
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.pdb
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\Overflow_exception.genruntimeconfig.cache
+C:\Users\empur\source\repos\Overflow_exception\obj\Debug\net8.0\ref\Overflow_exception.dll

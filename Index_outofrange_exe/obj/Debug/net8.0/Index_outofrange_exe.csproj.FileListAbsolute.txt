@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Index_outofrange_exe\bin\Debug\net8.0\Index_outofrange_exe.exe
+C:\Users\empur\source\repos\Index_outofrange_exe\bin\Debug\net8.0\Index_outofrange_exe.deps.json
+C:\Users\empur\source\repos\Index_outofrange_exe\bin\Debug\net8.0\Index_outofrange_exe.runtimeconfig.json
+C:\Users\empur\source\repos\Index_outofrange_exe\bin\Debug\net8.0\Index_outofrange_exe.dll
+C:\Users\empur\source\repos\Index_outofrange_exe\bin\Debug\net8.0\Index_outofrange_exe.pdb
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.AssemblyInfo.cs
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.dll
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\refint\Index_outofrange_exe.dll
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.pdb
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\Index_outofrange_exe.genruntimeconfig.cache
+C:\Users\empur\source\repos\Index_outofrange_exe\obj\Debug\net8.0\ref\Index_outofrange_exe.dll

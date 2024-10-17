@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Genric_Stack\bin\Debug\net8.0\Genric_Stack.exe
+C:\Users\empur\source\repos\Genric_Stack\bin\Debug\net8.0\Genric_Stack.deps.json
+C:\Users\empur\source\repos\Genric_Stack\bin\Debug\net8.0\Genric_Stack.runtimeconfig.json
+C:\Users\empur\source\repos\Genric_Stack\bin\Debug\net8.0\Genric_Stack.dll
+C:\Users\empur\source\repos\Genric_Stack\bin\Debug\net8.0\Genric_Stack.pdb
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.AssemblyInfo.cs
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.dll
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\refint\Genric_Stack.dll
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.pdb
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\Genric_Stack.genruntimeconfig.cache
+C:\Users\empur\source\repos\Genric_Stack\obj\Debug\net8.0\ref\Genric_Stack.dll

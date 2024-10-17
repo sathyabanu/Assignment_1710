@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Reverse_linkedlist\bin\Debug\net8.0\Reverse_linkedlist.exe
+C:\Users\empur\source\repos\Reverse_linkedlist\bin\Debug\net8.0\Reverse_linkedlist.deps.json
+C:\Users\empur\source\repos\Reverse_linkedlist\bin\Debug\net8.0\Reverse_linkedlist.runtimeconfig.json
+C:\Users\empur\source\repos\Reverse_linkedlist\bin\Debug\net8.0\Reverse_linkedlist.dll
+C:\Users\empur\source\repos\Reverse_linkedlist\bin\Debug\net8.0\Reverse_linkedlist.pdb
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.AssemblyInfo.cs
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.dll
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\refint\Reverse_linkedlist.dll
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.pdb
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\Reverse_linkedlist.genruntimeconfig.cache
+C:\Users\empur\source\repos\Reverse_linkedlist\obj\Debug\net8.0\ref\Reverse_linkedlist.dll

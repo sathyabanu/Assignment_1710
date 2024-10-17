@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Null_Reference_ex\bin\Debug\net8.0\Null_Reference_ex.exe
+C:\Users\empur\source\repos\Null_Reference_ex\bin\Debug\net8.0\Null_Reference_ex.deps.json
+C:\Users\empur\source\repos\Null_Reference_ex\bin\Debug\net8.0\Null_Reference_ex.runtimeconfig.json
+C:\Users\empur\source\repos\Null_Reference_ex\bin\Debug\net8.0\Null_Reference_ex.dll
+C:\Users\empur\source\repos\Null_Reference_ex\bin\Debug\net8.0\Null_Reference_ex.pdb
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.AssemblyInfo.cs
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.dll
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\refint\Null_Reference_ex.dll
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.pdb
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\Null_Reference_ex.genruntimeconfig.cache
+C:\Users\empur\source\repos\Null_Reference_ex\obj\Debug\net8.0\ref\Null_Reference_ex.dll

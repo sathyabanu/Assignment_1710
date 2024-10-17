@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Swapping_list/1.0.0": {
+        "runtime": {
+          "Swapping_list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Swapping_list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

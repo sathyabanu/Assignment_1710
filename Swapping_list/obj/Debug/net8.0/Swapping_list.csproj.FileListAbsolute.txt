@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Swapping_list\bin\Debug\net8.0\Swapping_list.exe
+C:\Users\empur\source\repos\Swapping_list\bin\Debug\net8.0\Swapping_list.deps.json
+C:\Users\empur\source\repos\Swapping_list\bin\Debug\net8.0\Swapping_list.runtimeconfig.json
+C:\Users\empur\source\repos\Swapping_list\bin\Debug\net8.0\Swapping_list.dll
+C:\Users\empur\source\repos\Swapping_list\bin\Debug\net8.0\Swapping_list.pdb
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.AssemblyInfo.cs
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.dll
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\refint\Swapping_list.dll
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.pdb
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\Swapping_list.genruntimeconfig.cache
+C:\Users\empur\source\repos\Swapping_list\obj\Debug\net8.0\ref\Swapping_list.dll

@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Remove_duplicates\bin\Debug\net8.0\Remove_duplicates.exe
+C:\Users\empur\source\repos\Remove_duplicates\bin\Debug\net8.0\Remove_duplicates.deps.json
+C:\Users\empur\source\repos\Remove_duplicates\bin\Debug\net8.0\Remove_duplicates.runtimeconfig.json
+C:\Users\empur\source\repos\Remove_duplicates\bin\Debug\net8.0\Remove_duplicates.dll
+C:\Users\empur\source\repos\Remove_duplicates\bin\Debug\net8.0\Remove_duplicates.pdb
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.AssemblyInfo.cs
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.dll
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\refint\Remove_duplicates.dll
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.pdb
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\Remove_duplicates.genruntimeconfig.cache
+C:\Users\empur\source\repos\Remove_duplicates\obj\Debug\net8.0\ref\Remove_duplicates.dll

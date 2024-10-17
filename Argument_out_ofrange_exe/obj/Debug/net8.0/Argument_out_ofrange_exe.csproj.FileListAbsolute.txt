@@ -1,0 +1,14 @@
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\bin\Debug\net8.0\Argument_out_ofrange_exe.exe
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\bin\Debug\net8.0\Argument_out_ofrange_exe.deps.json
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\bin\Debug\net8.0\Argument_out_ofrange_exe.runtimeconfig.json
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\bin\Debug\net8.0\Argument_out_ofrange_exe.dll
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\bin\Debug\net8.0\Argument_out_ofrange_exe.pdb
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.AssemblyInfoInputs.cache
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.AssemblyInfo.cs
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.csproj.CoreCompileInputs.cache
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.dll
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\refint\Argument_out_ofrange_exe.dll
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.pdb
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\Argument_out_ofrange_exe.genruntimeconfig.cache
+C:\Users\empur\source\repos\Argument_out_ofrange_exe\obj\Debug\net8.0\ref\Argument_out_ofrange_exe.dll

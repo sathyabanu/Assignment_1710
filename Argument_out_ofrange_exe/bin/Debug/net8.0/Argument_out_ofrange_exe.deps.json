@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Argument_out_ofrange_exe/1.0.0": {
+        "runtime": {
+          "Argument_out_ofrange_exe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Argument_out_ofrange_exe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
